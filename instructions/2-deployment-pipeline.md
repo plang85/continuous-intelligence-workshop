@@ -35,6 +35,6 @@ git push
 ```
 
 6. Once the pipeline succeeds, you can access your application's URL at
-http://userX.app.cd4ml.net (replace `X` with your user ID)
+http://user12.app.cd4ml.net (replace `X` with your user ID)
 
 7. Done! Go to [the next exercise](./3-machine-learning-pipeline.md)
